@@ -1,0 +1,21 @@
+#profile-image{
+    margin-top: 190px;
+    border-radius: 50%;
+}
+#project-section{
+    min-height: 100vh;
+    background-color: #C0C0C0;
+}
+#main-section {
+    height: 100vh;
+}
+img:hover {
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+div{
+    text-shadow: 2px 2px olive;
+}
+.card{
+    padding-bottom: 10px;
+}
